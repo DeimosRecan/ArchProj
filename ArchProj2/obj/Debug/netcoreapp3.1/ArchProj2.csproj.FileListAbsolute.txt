@@ -1,0 +1,13 @@
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.exe
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.deps.json
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.runtimeconfig.json
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.runtimeconfig.dev.json
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.dll
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\bin\Debug\netcoreapp3.1\ArchProj2.pdb
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.csprojAssemblyReference.cache
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.AssemblyInfoInputs.cache
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.AssemblyInfo.cs
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.csproj.CoreCompileInputs.cache
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.dll
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.pdb
+D:\Games2\Desktop\Учеба\2 курс\C# структуры данных и алгоритмы\практика 2 семестр\ArchProj2\ArchProj2\obj\Debug\netcoreapp3.1\ArchProj2.genruntimeconfig.cache
